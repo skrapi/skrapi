@@ -1,1 +1,1 @@
-South African. Embedded Systems Engineer. Interested in IoT, with a love for Rust :crab:.
+South African. Software Development Manager. Interested in IoT, with a love for Rust :crab:.
